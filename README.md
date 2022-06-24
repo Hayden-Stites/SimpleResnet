@@ -1,1 +1,1 @@
-"# SimpleResnet" 
+Sorts petfinder-adoption-prediction dataset images at over 85% accuracy.
